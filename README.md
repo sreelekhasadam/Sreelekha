@@ -1,6 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+Go to folder (Sreelekha-master) 
+path: cd C:\react\Sreelekha-master
+npm install
+npm start
+
+User name and time is coming from this URL:https://run.mocky.io/v3/a446cd0a-9cff-4d15-95c2-5777482f3c08
+
 
 In the project directory, you can run:
 
